@@ -1,0 +1,5 @@
+Alena Dernerová#233|Božena Sekaninová#203|Jan Horník#169|Jana Juøenèáková#208|Jaroslav Doubrava#92|Jiøí Èunek#207|Jozef Regec#242|Ludìk Sefzig#112|Milan Pešák#235|Miluše Horská#240|Pavel Èáslava#190|Petr Gawlas#250|Petr Pithart#44|Petr Šilar#241|Stanislav Juránek#245|Tomáš Grulich#193|Václav Koukal#199233abc203
+
+http://regex101.com/r/kB0dT2/1
+
+/(?<=[\|])(.*?)(?=\#)|^(.*?)(?=\#)/g
